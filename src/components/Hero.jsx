@@ -1,0 +1,11 @@
+import React from 'react'
+
+const Hero = () => {
+  return (
+    <section className="h-svh bg-amber-50">
+      hero
+    </section>
+  )
+}
+
+export default Hero
