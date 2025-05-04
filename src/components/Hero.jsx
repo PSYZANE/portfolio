@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <section className="h-svh bg-amber-50">
+    <section className="h-svh">
       hero
     </section>
   )
