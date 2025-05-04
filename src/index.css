@@ -19,7 +19,7 @@ body {
 }
 
 .navbar_btn{
-  @apply mt-1 hover:scale-110 hover:text-blue-600 transition-all;
+  @apply text-blue-200 mt-1 hover:scale-110 hover:text-blue-600 transition-all;
 }
 .navbar_btn_underline{
   @apply block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-blue-600
